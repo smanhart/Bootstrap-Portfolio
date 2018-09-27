@@ -2,12 +2,27 @@ nav {
    padding-left: 550px;
 }
 
+
 body {
     background-image: url(../images/hypnotize.png);
     margin-bottom: 80px;
 }
 
+h2 {
+    border-bottom: solid 2px black;
+}
+
+.container {
+    background: oldlace;
+}
+
 img {
     height: 300px;
     width: 250px;
+    
+}
+
+#copyright {
+    color: oldlace;
+    text-align: center;
 }
