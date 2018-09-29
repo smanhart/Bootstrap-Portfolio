@@ -1,5 +1,13 @@
-nav {
-   padding-left: 550px;
+.navbar-brand {
+   background-color: #56384b;
+   font-weight: 700;
+   font-size: 35px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.navbar-light .navbar-brand {
+    color: #d6bda9;
 }
 
 
@@ -14,6 +22,7 @@ h2 {
 
 .container {
     background: oldlace;
+    margin-top: 50px;
 }
 
 img {
@@ -21,6 +30,25 @@ img {
     width: 250px;
     
 }
+
+.label {
+    background: #816288;
+    color: oldlace;
+    text-align: center; 
+    width: 250px;
+    padding: 15px 0;
+    font-size: 20px;
+    float: left;
+}
+
+.textBlock {
+    position: absolute;
+    top: 225px;
+    width: 250px;
+    height: 50px;
+}
+
+
 
 #copyright {
     color: oldlace;
